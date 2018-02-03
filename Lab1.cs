@@ -12,8 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("\nWhat is your name? ");
             var name = Console.ReadLine();
-            var date = DateTime.Now;
-            Console.WriteLine($"\nHello World from {name}!");
+            var aGreeting = "Hello World";
+            Console.WriteLine($"\n{aGreeting} from {name}!");
             Console.Write("\nPress any key to exit...");
             Console.ReadKey(true);
         }
