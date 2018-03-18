@@ -1,0 +1,7 @@
+C:\Users\Tenshi\source\repos\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.exe.config
+C:\Users\Tenshi\source\repos\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.exe
+C:\Users\Tenshi\source\repos\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.pdb
+C:\Users\Tenshi\source\repos\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.csprojResolveAssemblyReference.cache
+C:\Users\Tenshi\source\repos\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.csproj.CoreCompileInputs.cache
+C:\Users\Tenshi\source\repos\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.exe
+C:\Users\Tenshi\source\repos\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.pdb
