@@ -1,7 +1,0 @@
-C:\Users\Tenshi\source\repos\Lab08\Lab08\obj\Debug\Lab08.csprojResolveAssemblyReference.cache
-C:\Users\Tenshi\source\repos\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
-C:\Users\Tenshi\source\repos\Lab08\Lab08\bin\Debug\Lab08.exe.config
-C:\Users\Tenshi\source\repos\Lab08\Lab08\bin\Debug\Lab08.exe
-C:\Users\Tenshi\source\repos\Lab08\Lab08\bin\Debug\Lab08.pdb
-C:\Users\Tenshi\source\repos\Lab08\Lab08\obj\Debug\Lab08.exe
-C:\Users\Tenshi\source\repos\Lab08\Lab08\obj\Debug\Lab08.pdb
